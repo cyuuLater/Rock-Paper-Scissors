@@ -16,7 +16,7 @@ A simple terminal-based Rock Paper Scissors game built with **Python**, designed
 
 ## Technologies Used
 
-* **Python 3.x**
+* **Python**
 * **Terminal / Command Line**
 * **ANSI escape codes** (for coloring output)
 
@@ -49,5 +49,5 @@ A simple terminal-based Rock Paper Scissors game built with **Python**, designed
   * `R` for **Rock**
   * `P` for **Paper**
   * `S` for **Scissors**
-* First to **2 wins out of 3 rounds** is the overall winner!
+* First to **2 wins out of 3 rounds** is the winner.
 * You can also view the **"How to Play"** menu anytime from the main menu.
